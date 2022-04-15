@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 400px;
+  height: 150px;
+  border: 1px solid black;
+  margin: 50px auto;
+  background-color: antiquewhite;
+}
+p {
+  padding-left: 40px;
+  line-height: 148px;
+  background-image: url(colorful.jpeg);
+  margin: auto;
+  font-size: 45px;
+  font-weight: 900;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
